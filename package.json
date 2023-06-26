@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/abskmj/youtube-hls-m3u8#readme",
   "devDependencies": {
+    "wrangler": "^2.0.5"
     "nodemon": "^2.0.20",
     "standard": "^17.0.0"
   },
